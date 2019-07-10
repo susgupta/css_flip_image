@@ -2,6 +2,9 @@
 
 Sushil G CSS Flip Portfolio Effect is an example showcasing **CSS animation properties**. No JavaScript is used. All the animation is **pure CSS**.
 
+**Update**
+I re-vamped this to use another CSS techniques to achieve another effect for the 'flip image' effect.
+
 ## Technologies Used
 
 - HTML
